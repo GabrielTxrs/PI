@@ -57,6 +57,6 @@ To work with the Jupyter Notebook:
    jupyter notebook notebooks/example.ipynb
    ```
 
-## License
+## Tesseract
 
-This project is licensed under the MIT License.
+Para usar esse notebook, é necessário ter tesseract instalado em seu sistema operacional

@@ -1,1 +1,10 @@
 jupyter
+scikit-image
+pdf2image
+pillow
+pytesseract
+matplotlib
+opencv-python
+pandas
+tesseract
+tesseract-ocr
