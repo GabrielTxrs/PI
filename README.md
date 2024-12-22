@@ -1,4 +1,4 @@
-# My Python Project
+# Atividade de PI
 
 This project is a Python application that utilizes a virtual environment and supports Jupyter Notebooks for data analysis and visualization.
 
