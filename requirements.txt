@@ -7,4 +7,3 @@ matplotlib
 opencv-python
 pandas
 tesseract
-tesseract-ocr
